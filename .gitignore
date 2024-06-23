@@ -1,0 +1,42 @@
+# Build artifacts
+**BlogWebsite/bin/
+**BlogWebsite/obj/
+
+# Temporary generated files
+**/.vs/
+**/.idea/
+**/.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# Secret files
+/BlogWebsite/appsettings.Development.json
+/BlogWebsite/appsettings.Production.json
+/BlogWebsite/appsettings.json*  # Covers any other appsettings variations you might have
+*.secrets.json
+/BlogWebsite/appsettings.json
+
+# Logs
+**/logs/
+
+# Tests results
+**/testresults/
+
+# NuGet packages
+**BlogWebsite/packages/
+
+# Migrations (consider version control for these as well)
+**BlogWebsite/Migrations/
+
+# Connected Services (consider version control for connected service metadata)
+**BlogWebsite/Connected Services/
+
+# Any other IDE or OS specific temp/cache folders
+BlogWebsite/[Bb]in/
+BlogWebsite/[Dd]ebug/
+BlogWebsite/[Rr]elease/
+BlogWebsite/[Tt]est[Rr]esults/
+BlogWebsite/[Aa]rtfacts/
