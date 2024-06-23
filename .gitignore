@@ -1,6 +1,6 @@
 # Build artifacts
-**BlogWebsite/bin/
-**BlogWebsite/obj/
+**/BlogWebsite/bin/
+**/BlogWebsite/obj/
 
 # Temporary generated files
 **/.vs/
@@ -26,17 +26,18 @@
 **/testresults/
 
 # NuGet packages
-**BlogWebsite/packages/
+**/BlogWebsite/packages/
 
 # Migrations (consider version control for these as well)
-**BlogWebsite/Migrations/
+**/BlogWebsite/Migrations/
 
 # Connected Services (consider version control for connected service metadata)
-**BlogWebsite/Connected Services/
+**/BlogWebsite/Connected Services/
 
 # Any other IDE or OS specific temp/cache folders
-BlogWebsite/[Bb]in/
-BlogWebsite/[Dd]ebug/
-BlogWebsite/[Rr]elease/
-BlogWebsite/[Tt]est[Rr]esults/
-BlogWebsite/[Aa]rtfacts/
+/BlogWebsite/[Bb]in/
+/BlogWebsite/[Dd]ebug/
+/BlogWebsite/[Rr]elease/
+/BlogWebsite/[Tt]est[Rr]esults/
+/BlogWebsite/[Aa]rtfacts/
+/BlogWebsite/Properties
